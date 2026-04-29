@@ -1,3 +1,9 @@
+ *{
+   padding: 15px;
+ }
+
+
+
  body{
     background: rgb(183, 165, 201);
    }
@@ -25,8 +31,16 @@ font-size: 40px;
 
 .fonte-20{
    font-size: 20px;
+
+}
+.fonte-15{
+   font-size: 25px;
 }
  #especial{
    color: black;
    background-color: bisque;
+}
+#importante{
+   color: gold;
+   background: black;
 }
