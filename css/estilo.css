@@ -1,6 +1,32 @@
  body{
-    background:rosybrown;
+    background: rgb(183, 165, 201);
    }
-   h1{
-    color: aquamarine;
-    font-size: 40px;
+ p{ color:beige;
+      
+}
+
+ .rosa{
+  color:rgb(180, 50, 50);
+ }
+
+   .center{
+  text-align: center;
+   }
+
+h1{
+color: rgb(66, 46, 21);
+font-size: 40px;
+}
+
+ #teste{
+   color:rgb(108, 82, 167);
+   background:rgb(141, 132, 121);
+ }
+
+.fonte-20{
+   font-size: 20px;
+}
+ #especial{
+   color: black;
+   background-color: bisque;
+}
